@@ -6,13 +6,13 @@ Throughout the course, we were challenged with multiple Java programming exercis
 
 
 Course topics:
-- Trigonometry, Vectors, Points, Surfaces
+- trigonometry, vectors, points, surfaces
 - coordinate systems and transformations
 - color and light
-- Sampling and Aliasing
+- sampling and aliasing
 - modeling and geometry
-- Rendering and Ray-Tracing
-- Lighting, shading and reflection
+- rendering and ray-tracing
+- lighting, shading and reflection
 - material and texture
 
 
