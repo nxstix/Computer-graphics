@@ -1,4 +1,4 @@
-# Fundamentals of Computer Graphics/Computergrafik Grundlagen at Berliner Hochschule für Technik (BHT)
+# Fundamentals of Computer Graphics (Computergrafik Grundlagen) at Berliner Hochschule für Technik (BHT)
 ## Media computer science/Medieninformatik B.Sc.
 
 I attended the "Fundamentals of Computer Graphics" course with Prof. Dr. Henrik Tramberend, in the summer semester of 2022. 
